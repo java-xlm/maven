@@ -43,6 +43,7 @@
 						<include>**/*</include>
 					</includes>
 					<merge>true</merge>
+					
 					<repositoryName>maven</repositoryName>      <!-- github repo name -->
 					<repositoryOwner>java-xlm</repositoryOwner>    <!-- github username -->
 				</configuration>
